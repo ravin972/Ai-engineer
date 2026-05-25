@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/ai-engineer-roadmap-2026-interactive.html"
+    }
+  ]
+}
